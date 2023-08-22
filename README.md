@@ -8,7 +8,7 @@
 <br/>
 <br/>
  ### ✨ Contact ✨
-<img src="https://img.shields.io/badge/Gamil-EA4335?style=flat-square&logo=gmail&logoColor=white"/><a href="https://zoneiii.tistory.com"> <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a><a href="https://www.notion.so/I-m-003b3228975a4e4e870ee97b13fcd922"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Gamil-EA4335?style=flat-square&logo=gmail&logoColor=white"/><a href="https://zoneiii.tistory.com"> <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a> <a href="https://toothsome-lake-232.notion.site/Contact-fa987f2029914bf2817f92a466764b76?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <br/>
 <br/>
 <br/>
